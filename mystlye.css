@@ -1,0 +1,140 @@
+.demo-card-wide.mdl-card {
+    width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+    color: #fff;
+    height: 176px;
+    background: url('images/WIN_20160407_000354.JPG') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+    color: #fff;
+}
+.topbottom{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.my-img{
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+.my-head{
+    background-image: url("images/notebook-1280538.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.my-heading{
+    padding-top: 50px;
+    font-family: "Baskerville Old Face";
+    color: #bf360c;
+    font-size: xx-large;
+
+}
+
+
+.about-me{
+    background-color: #cfd8dc;
+    height: 450px;
+}
+.shade{
+    color:#36414E
+}
+.my-text{
+    font-size: x-large;
+    font-family: Helvetica;
+    color: #000000;
+}
+.my-nav{
+    font: Helvetica;
+    font-size:15px;
+    color: #b6ff00;
+}
+.spacing{
+    height: 150px
+}
+.fav{
+    font-family: "Helvetica";
+    font-size: x-large;
+}
+.pad-top{
+    padding-top: 250;
+}
+.lenghten {
+    height: 620px;
+}
+.titlehead{
+    height: 175px;
+}
+.pad{
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-left: 475px;
+    padding-bottom: 10px;
+}
+.flash{
+    padding-top: 150px;
+    padding-right: 200px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+
+}
+
+.grey-height{
+    height: 450px;
+}
+
+.small-space{
+    height:50px ;
+}
+
+.white-space{
+    height:100px;
+}
+
+
+.white-text {
+    color:white;
+    font-size: x-large;
+    font-family: "Baskerville Old Face";
+}
+
+div.img_holder img
+{
+    float: left;
+}
+
+
+
+
+.show {
+    display: block !important;
+}
+.hidden {
+    display: none !important;
+}
+.invisible {
+    visibility: hidden;
+}
+.para{
+    padding-left: 20px;
+    align: justify;
+}
+.line{
+    COLOR: black;
+    width:100%;
+}
+
+   .element {
+   .show();
+   }
+.another-element {
+.hidden();
+}
+
+.skip-navigation {
+.sr-only();
+.sr-only-focusable();
+}
